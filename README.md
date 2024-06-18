@@ -1,1 +1,1 @@
-Some of my projects present in this repository
+Some of the practice projects are presented in this repository which is created by me while learning Javascript😊
